@@ -1,0 +1,3 @@
+In the terminal:
+pytest Test_map_BB.py --alluredir results
+allure serve results
